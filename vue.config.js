@@ -1,3 +1,3 @@
-//module.exports = {
-//  publicPath: '/countdown/'
-//}
+module.exports = {
+  publicPath: '/countdown/'
+}
